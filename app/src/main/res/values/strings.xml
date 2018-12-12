@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MiPrimerApp</string>
+    <string name="txtCantidad">"Ingrese Cantidad"</string>
+    <string name="rbLempiras">"Lempiras"</string>
+    <string name="rbDolares">"Dolares"</string>
+    <string name="rbEuros">"Euros"</string>
+    <string name="rbLibras">"Libras Esterlinas"</string>
+    <string name="btnCalcular">"Calcular"</string>
+    <string name="txtResultado">"RESULTADO"</string>
+    <string name="txtResultE">"ResultadoE"</string>
+    <string name="txtResultLb">"ResultadoLb"</string>
+    <string name="txtResultD">"ResultadoD"</string>
+</resources>
